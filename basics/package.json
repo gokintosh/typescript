@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile": "tsc *.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}
